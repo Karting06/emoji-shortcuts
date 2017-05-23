@@ -50,18 +50,18 @@ when using keyboard shortcuts.
 | `1F642`                 |                          | `:) :-) (: :]`              | Slightly Smiling Face                       | A face that is a little bit happy, with a slight smile and neutral eyes.                                                                                                                            |
 | `F0000` (FB own ‘like’) |                          | `:like: (Y) (y)`            |                                             |                                                                                                                                                                                                     |
 
-\<table\>
+<table>
 
-\<td\>\<code\>1F610\</code\>\</td\>
+<td><code>1F610</code></td>
 
-\<td\>\<code\>:\| =\|\</code\>\</td\>
+<td><code>:| =|</code></td>
 
-\<td\>Neutral Face\</td\>
+<td>Neutral Face</td>
 
-\<td\>A face featuring a straight-and-closed mouth, not giving away any
-particular emotion.\</td\>
+<td>A face featuring a straight-and-closed mouth, not giving away any
+particular emotion.</td>
 
-\</table\>
+</table>
 
  
 
