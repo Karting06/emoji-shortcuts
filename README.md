@@ -36,7 +36,7 @@ when using keyboard shortcuts.
 | `1F609`                 | `;) ;-)`                 | `;) ;-)`                    | Winking face                                | Used to imply humor in written form, or may alternatively be used suggestively, as a form of flirtation.                                                                                            |
 | `1F60A`                 | `=)`                     | `=)(= ^_^`                  | Smiling Face With Smiling Eyes              | A smiling face, with smiling eyes and rosy cheeks. Showing a true sense of happiness.                                                                                                               |
 | `1F60E`                 | `B-)`                    | `8) 8-) B) B-)`             | Smiling Face With Sunglasses                | A face smiling and wearing dark sunglasses that is used to denote a sense of cool.                                                                                                                  |
-| `1F610`                 | See below (after table)  |                             | Neutral face                                | A face featuring a straight-and-closed mouth, not giving away any particular emotion.                                                                                                               |
+| `1F610`                 | `:\| =\|`                | `:\|`                       | Neutral face                                | A face featuring a straight-and-closed mouth, not giving away any particular emotion.                                                                                                               |
 | `1F611`                 | `-_-`                    | `-_-`                       | Expressionless Face                         | A face with narrow, closed eyes, and a straight mouth. A deliberate display of ‘no comment’ as opposed to a completely neutral face.                                                                |
 | `1F615`                 | `:/ :-/ :\ :-\ =/ =\`    | `:/ :-/ =/ :\ :-\ =\`       | Confused face                               | Part displeased, part unsure what to think. This face isn’t sad, but is a bit confused and puzzled by the situation.                                                                                |
 | `1F616`                 | `:S :-S`                 |                             | Confounded Face                             | On the verge of tears, this emoji has tightly closed eyes, and a quivering mouth.                                                                                                                   |
@@ -49,21 +49,6 @@ when using keyboard shortcuts.
 | `1F62E`                 | `:O :-O :o :-o =O`       | `:O :-O :o :-o`             | Face With Open Mouth                        | A face with the mouth wide open, which is generally used to represent an element of surprise.                                                                                                       |
 | `1F642`                 |                          | `:) :-) (: :]`              | Slightly Smiling Face                       | A face that is a little bit happy, with a slight smile and neutral eyes.                                                                                                                            |
 | `F0000` (FB own ‘like’) |                          | `:like: (Y) (y)`            |                                             |                                                                                                                                                                                                     |
-
-<table>
-
-<td><code>1F610</code></td>
-
-<td><code>:| =|</code></td>
-
-<td>Neutral Face</td>
-
-<td>A face featuring a straight-and-closed mouth, not giving away any
-particular emotion.</td>
-
-</table>
-
- 
 
 Empty cells mean that I didn’t find a shortcut for that platform for rendering
 the same specific Unicode Code Emoji.
